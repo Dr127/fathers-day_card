@@ -1,0 +1,32 @@
+body{
+  text-align:center;
+  background: linear-gradient(#d809df 0%, #5209db 100%);
+  background-repeat: no-repeat;
+
+  
+}
+
+.line{
+    height: 6px;
+    background-color:#4DD0E1;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+#images{
+  width: 500px;
+  height:600px;
+  border-radius: 50%;
+}
+h2{
+    font-size: 100px;
+    margin-bottom: 100px;
+    font-family: cursive;
+}
+h1{
+  font-size: 100px;
+  margin-bottom: 100px;
+  font-family:fantasy;
+}
+  
